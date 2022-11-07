@@ -65,6 +65,7 @@ const Jumbotron = () => {
                     </div>
                 </Row>
             </Container>
+            {/* Jumbotron Top */}
             <div className="bg d-none d-sm-block d-sm-none d-md-block mt-5">
                 <Row style={{ marginTop: "200px" }}>
                     <div className="col-lg-6 col-md-6 col-sm-12 d-grid justify-content-center items-center my-5">
