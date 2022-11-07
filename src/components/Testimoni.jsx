@@ -32,6 +32,7 @@ const Testimoni = () => {
     return (
         <>
             <Container style={{ marginTop: "190px", marginBottom: "150px" }}>
+                {/* testimoni */}
                 <div className="text-center mb-5 pb-5">
                     <h1 className="mb-5">Testimonial</h1>
                     <p className="text-secondary">
@@ -55,6 +56,7 @@ const Testimoni = () => {
                     </div>
                 );
             })} */}
+                {/* cards */}
                 <Row className="d-flex justify-content-sm-center">
                     <div className="col-lg-3 col-md-6 col-sm-12 col-12">
                         <Card style={{ width: "18rem", height: "18rem" }} className="d-flex mb-5 shadow-sm rounded-md">
@@ -132,6 +134,7 @@ const Testimoni = () => {
                     <span className="border border-secondary mx-2 py-1 px-1 bg-secondary rounded-circle"></span>
                 </div>
             </Container>
+            {/* Jumbotron Bottom */}
             <div className="bg-bawah d-none d-sm-block d-sm-none d-md-block">
                 <Container>
                     <Row>
