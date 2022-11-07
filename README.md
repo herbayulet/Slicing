@@ -10,3 +10,7 @@
 ![slicing2](https://user-images.githubusercontent.com/61405169/200305001-62a048d8-5eaf-44c2-90fd-941ffd6e922b.png)
 
 ![slicing3](https://user-images.githubusercontent.com/61405169/200305291-c6535bdb-5109-4034-8620-cb815aa2cd13.png)
+
+![slicing4](https://user-images.githubusercontent.com/61405169/200305534-b22baa98-b25d-4176-829f-19a515429400.png)
+
+![slicing5](https://user-images.githubusercontent.com/61405169/200305723-223452cb-fa1f-4dfb-bdec-4fb723bc8240.png)
