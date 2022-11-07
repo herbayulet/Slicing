@@ -4,3 +4,4 @@
 
 # Capture:
 
+![slicing](https://user-images.githubusercontent.com/61405169/200304111-81ee1698-82ac-42f3-984e-049e0a171e32.png)
