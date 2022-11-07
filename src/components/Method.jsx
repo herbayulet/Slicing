@@ -25,7 +25,7 @@ const Method = () => {
                             suscipit. Ut eligendi minima perferendis a maxime quaerat? Debitis, odit.
                         </p>
                     </div>
-                    <div className="col-lg-6 col-md-6 col-sm-12 mt-5 d-none d-sm-block d-sm-none d-md-block" style={{ paddingLeft: "268px" }}>
+                    <div className="col-lg-6 col-md-6 col-sm-12 mt-5 d-none d-sm-block d-sm-none d-md-block" style={{ paddingLeft: "278px" }}>
                         <div className="flex">
                             <img src={merahkanan2} alt="" className="position-relative mt-5 pt-5" style={{ marginRight: "-800px" }} />
                             <img src={ikan2} alt="" className="position-absolute mt-5 pt-5" />
@@ -65,7 +65,7 @@ const Method = () => {
                             suscipit. Ut eligendi minima perferendis a maxime quaerat? Debitis, odit.
                         </p>
                     </div>
-                    <div className="col-lg-6 col-md-6 col-sm-12 mt-5 d-none d-sm-block d-sm-none d-md-block" style={{ paddingLeft: "268px" }}>
+                    <div className="col-lg-6 col-md-6 col-sm-12 mt-5 d-none d-sm-block d-sm-none d-md-block" style={{ paddingLeft: "278px" }}>
                         <div className="flex">
                             <img src={merahkanan2} alt="" className="position-relative mt-5 pt-5" style={{ marginRight: "-800px" }} />
                             <img src={ikan4} alt="" className="position-absolute" style={{ marginTop: "160px" }} />
