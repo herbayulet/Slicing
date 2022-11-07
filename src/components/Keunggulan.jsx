@@ -16,6 +16,7 @@ const Keunggulan = () => {
                     cumque quod deleniti vero voluptates! Dolore aut illo praesentium alias, architecto est quaerat. Eaque, amet. Itaque sunt consequuntur, provident expedita
                     dolorem explicabo fugiat consequatur excepturi modi. Incidunt reiciendis odit aspernatur eum asperiores similique at veritatis explicabo!
                 </p>
+                {/* Cards */}
                 <Row>
                     <div className="d-lg-flex mx-md-5 mx-0 mb-5 d-sm-flex my-sm-4">
                         <div className="col-lg-4 col-md-12 col-sm-12 col-12">
